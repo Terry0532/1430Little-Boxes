@@ -1,0 +1,325 @@
+#rect1 {
+  width: 900px;
+  height: 30px;
+  background: #b22234;
+}
+
+#rect2 {
+  width: 900px;
+  height: 30px;
+  background: #b22234;
+  margin-top: 37px;
+}
+
+#rect3 {
+  width: 395px;
+  height: 230px;
+  background: #3c3b6e;
+  position: absolute;
+  top: 0.485rem;
+  left: 0.5rem;
+}
+
+.checked {
+  color: #ffffff;
+}
+
+#star1 {
+  position: absolute;
+  top: 1rem;
+  left: 2rem;
+}
+
+#star2 {
+  position: absolute;
+  top: 1rem;
+  left: 6rem;
+}
+
+#star3 {
+  position: absolute;
+  top: 1rem;
+  left: 10rem;
+}
+
+#star4 {
+  position: absolute;
+  top: 1rem;
+  left: 14rem;
+}
+
+#star5 {
+  position: absolute;
+  top: 1rem;
+  left: 18rem;
+}
+
+#star6 {
+  position: absolute;
+  top: 1rem;
+  left: 22rem;
+}
+
+#star7 {
+  position: absolute;
+  top: 2.5rem;
+  left: 4rem;
+}
+
+#star8 {
+  position: absolute;
+  top: 2.5rem;
+  left: 8rem;
+}
+
+#star9 {
+  position: absolute;
+  top: 2.5rem;
+  left: 12rem;
+}
+
+#star10 {
+  position: absolute;
+  top: 2.5rem;
+  left: 16rem;
+}
+
+#star11 {
+  position: absolute;
+  top: 2.5rem;
+  left: 20rem;
+}
+
+#star12 {
+  position: absolute;
+  top: 4rem;
+  left: 2rem;
+}
+
+#star13 {
+  position: absolute;
+  top: 4rem;
+  left: 6rem;
+}
+
+#star14 {
+  position: absolute;
+  top: 4rem;
+  left: 10rem;
+}
+
+#star15 {
+  position: absolute;
+  top: 4rem;
+  left: 14rem;
+}
+
+#star16 {
+  position: absolute;
+  top: 4rem;
+  left: 18rem;
+}
+
+#star17 {
+  position: absolute;
+  top: 4rem;
+  left: 22rem;
+}
+
+#star18 {
+  position: absolute;
+  top: 5.5rem;
+  left: 4rem;
+}
+
+#star19 {
+  position: absolute;
+  top: 5.5rem;
+  left: 8rem;
+}
+
+#star20 {
+  position: absolute;
+  top: 5.5rem;
+  left: 12rem;
+}
+
+#star21 {
+  position: absolute;
+  top: 5.5rem;
+  left: 16rem;
+}
+
+#star22 {
+  position: absolute;
+  top: 5.5rem;
+  left: 20rem;
+}
+
+#star23 {
+  position: absolute;
+  top: 7rem;
+  left: 2rem;
+}
+
+#star24 {
+  position: absolute;
+  top: 7rem;
+  left: 6rem;
+}
+
+#star25 {
+  position: absolute;
+  top: 7rem;
+  left: 10rem;
+}
+
+#star26 {
+  position: absolute;
+  top: 7rem;
+  left: 14rem;
+}
+
+#star27 {
+  position: absolute;
+  top: 7rem;
+  left: 18rem;
+}
+
+#star28 {
+  position: absolute;
+  top: 7rem;
+  left: 22rem;
+}
+
+#star29 {
+  position: absolute;
+  top: 8.5rem;
+  left: 4rem;
+}
+
+#star30 {
+  position: absolute;
+  top: 8.5rem;
+  left: 8rem;
+}
+
+#star31 {
+  position: absolute;
+  top: 8.5rem;
+  left: 12rem;
+}
+
+#star32 {
+  position: absolute;
+  top: 8.5rem;
+  left: 16rem;
+}
+
+#star33 {
+  position: absolute;
+  top: 8.5rem;
+  left: 20rem;
+}
+
+#star34 {
+  position: absolute;
+  top: 10rem;
+  left: 2rem;
+}
+
+#star35 {
+  position: absolute;
+  top: 10rem;
+  left: 6rem;
+}
+
+#star36 {
+  position: absolute;
+  top: 10rem;
+  left: 10rem;
+}
+
+#star37 {
+  position: absolute;
+  top: 10rem;
+  left: 14rem;
+}
+
+#star38 {
+  position: absolute;
+  top: 10rem;
+  left: 18rem;
+}
+
+#star39 {
+  position: absolute;
+  top: 10rem;
+  left: 22rem;
+}
+
+#star40 {
+  position: absolute;
+  top: 11.5rem;
+  left: 4rem;
+}
+
+#star41 {
+  position: absolute;
+  top: 11.5rem;
+  left: 8rem;
+}
+
+#star42 {
+  position: absolute;
+  top: 11.5rem;
+  left: 12rem;
+}
+
+#star43 {
+  position: absolute;
+  top: 11.5rem;
+  left: 16rem;
+}
+
+#star44 {
+  position: absolute;
+  top: 11.5rem;
+  left: 20rem;
+}
+
+#star45 {
+  position: absolute;
+  top: 13rem;
+  left: 2rem;
+}
+
+#star46 {
+  position: absolute;
+  top: 13rem;
+  left: 6rem;
+}
+
+#star47 {
+  position: absolute;
+  top: 13rem;
+  left: 10rem;
+}
+
+#star48 {
+  position: absolute;
+  top: 13rem;
+  left: 14rem;
+}
+
+#star49 {
+  position: absolute;
+  top: 13rem;
+  left: 18rem;
+}
+
+#star50 {
+  position: absolute;
+  top: 13rem;
+  left: 22rem;
+}
